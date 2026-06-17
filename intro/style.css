@@ -1,0 +1,15 @@
+* {
+  color: aquamarine !important;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+#forth {
+  background-color: chocolate;
+}
+
+#first {
+  text-align: center;
+}
+
+/* Remove the !important to give the priority to inline and internal over external */
