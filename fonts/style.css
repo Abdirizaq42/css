@@ -1,0 +1,24 @@
+h1 {
+  /* font-size: 36px;
+
+  font-family: Satisfy;
+
+  font-style:normal;
+
+  font-weight: bold;
+
+  font-variant: small-caps; */
+
+  /* We can use the shorthand to do above code in one line */
+  /* There is a Mandatory Order to follow */
+
+  font: normal small-caps bold 100px/1.8em Satisfy;
+}
+
+p {
+  line-height: 1.6;
+
+  word-spacing: 2px;
+
+  letter-spacing: 1px;
+}

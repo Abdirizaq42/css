@@ -1,0 +1,18 @@
+div {
+  border: solid red 10px;
+  /* padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px; */
+
+  /* We can write the top code with one go using shorthand  */
+  padding: 20px 10px;
+
+  color: yellow;
+  background-color: black;
+  margin: 20px;
+
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+}
